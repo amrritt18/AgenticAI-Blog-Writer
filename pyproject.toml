@@ -20,6 +20,7 @@ dependencies = [
     "psycopg[binary]==3.3.4",
     "python-dotenv==1.2.2",
     "requests==2.34.2",
+    "streamlit>=1.66.1",
     "tavily-python==0.7.24",
     "uvicorn==0.48.0",
 ]
